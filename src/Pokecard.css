@@ -1,0 +1,25 @@
+.card {
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    margin: 10%;
+    border-radius: 10%;
+    background-color: lightgray;
+    
+  }
+
+  .name{
+    color:blue;
+    text-align: center;
+  }
+
+  .type{
+font-family: Georgia;    
+text-align: center;
+
+  }
+  .experience{
+    text-align: center;
+  }
